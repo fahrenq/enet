@@ -1,5 +1,6 @@
 import {useEffect, useReducer, useRef, useState} from "preact/compat";
-import wordListUrl from '../assets/substantiver.tsv?url';
+// import wordListUrl from '../assets/substantiver.tsv?url';
+import wordListUrl from '../assets/top-3000-non-ambiguous-substantiver.tsv?url';
 
 interface Word {
   word: string;
