@@ -45,7 +45,6 @@ klokke	sb.fk.sg.ubest
 million	sb.fk.sg.ubest
 pris	sb.fk.sg.ubest
 historie	sb.fk.sg.ubest
-ting	sb.fk.sg.ubest
 bil	sb.fk.sg.ubest
 film	sb.fk.sg.ubest
 hus	sb.itk.sg.ubest
@@ -67,8 +66,6 @@ mål	sb.itk.sg.ubest
 ord	sb.itk.sg.ubest
 time	sb.fk.sg.ubest
 politiker	sb.fk.sg.ubest
-brug	sb.fk.sg.ubest
-bank	sb.fk.sg.ubest
 person	sb.fk.sg.ubest
 udvikling	sb.fk.sg.ubest
 resultat	sb.itk.sg.ubest
@@ -82,7 +79,6 @@ projekt	sb.itk.sg.ubest
 samfund	sb.itk.sg.ubest
 møde	sb.itk.sg.ubest
 situation	sb.fk.sg.ubest
-plan	sb.fk.sg.ubest
 hånd	sb.fk.sg.ubest
 universitet	sb.itk.sg.ubest
 avis	sb.fk.sg.ubest
@@ -125,7 +121,6 @@ fredag	sb.fk.sg.ubest
 ven	sb.fk.sg.ubest
 job	sb.itk.sg.ubest
 krig	sb.fk.sg.ubest
-vand	sb.itk.sg.ubest
 nummer	sb.itk.sg.ubest
 interesse	sb.fk.sg.ubest
 økonomi	sb.fk.sg.ubest
@@ -217,7 +212,6 @@ milliard	sb.fk.sg.ubest
 klasse	sb.fk.sg.ubest
 niveau	sb.itk.sg.ubest
 udstilling	sb.fk.sg.ubest
-værk	sb.itk.sg.ubest
 vækst	sb.fk.sg.ubest
 afdeling	sb.fk.sg.ubest
 succes	sb.fk.sg.ubest
@@ -236,7 +230,6 @@ november	sb.fk.sg.ubest
 serie	sb.fk.sg.ubest
 kritik	sb.fk.sg.ubest
 gæst	sb.fk.sg.ubest
-fokus	sb.fk.sg.ubest
 december	sb.fk.sg.ubest
 oplevelse	sb.fk.sg.ubest
 dør	sb.fk.sg.ubest
@@ -334,7 +327,6 @@ styrke	sb.fk.sg.ubest
 type	sb.fk.sg.ubest
 hovedstad	sb.fk.sg.ubest
 institution	sb.fk.sg.ubest
-sammenhæng	sb.fk.sg.ubest
 stof	sb.itk.sg.ubest
 udvalg	sb.itk.sg.ubest
 retning	sb.fk.sg.ubest
@@ -387,7 +379,6 @@ ejer	sb.fk.sg.ubest
 træ	sb.itk.sg.ubest
 forsvar	sb.itk.sg.ubest
 angreb	sb.itk.sg.ubest
-følge	sb.fk.sg.ubest
 deltager	sb.fk.sg.ubest
 have	sb.fk.sg.ubest
 arrangement	sb.itk.sg.ubest
@@ -416,7 +407,6 @@ stil	sb.fk.sg.ubest
 vurdering	sb.fk.sg.ubest
 fly	sb.itk.sg.ubest
 modstander	sb.fk.sg.ubest
-fond	sb.fk.sg.ubest
 bibliotek	sb.itk.sg.ubest
 kommentar	sb.fk.sg.ubest
 vejr	sb.itk.sg.ubest
@@ -444,7 +434,6 @@ sport	sb.fk.sg.ubest
 bund	sb.fk.sg.ubest
 fest	sb.fk.sg.ubest
 net	sb.itk.sg.ubest
-studie	sb.itk.sg.ubest
 bevægelse	sb.fk.sg.ubest
 løn	sb.fk.sg.ubest
 rente	sb.fk.sg.ubest
@@ -483,7 +472,6 @@ kæreste	sb.fk.sg.ubest
 handel	sb.fk.sg.ubest
 internet	sb.itk.sg.ubest
 grundlag	sb.itk.sg.ubest
-sol	sb.fk.sg.ubest
 hav	sb.itk.sg.ubest
 parlament	sb.itk.sg.ubest
 trussel	sb.fk.sg.ubest
@@ -493,7 +481,6 @@ byråd	sb.itk.sg.ubest
 regel	sb.fk.sg.ubest
 billet	sb.fk.sg.ubest
 byggeri	sb.itk.sg.ubest
-træk	sb.fk.sg.ubest
 tog	sb.itk.sg.ubest
 samtale	sb.fk.sg.ubest
 indhold	sb.itk.sg.ubest
@@ -537,7 +524,6 @@ offer	sb.itk.sg.ubest
 finale	sb.fk.sg.ubest
 nabo	sb.fk.sg.ubest
 muslim	sb.fk.sg.ubest
-brand	sb.itk.sg.ubest
 præst	sb.fk.sg.ubest
 trafik	sb.fk.sg.ubest
 ro	sb.fk.sg.ubest
@@ -549,7 +535,6 @@ landbrug	sb.itk.sg.ubest
 udenrigsminister	sb.fk.sg.ubest
 tab	sb.itk.sg.ubest
 centimeter	sb.fk.sg.ubest
-øre	sb.itk.sg.ubest
 modsætning	sb.fk.sg.ubest
 indtryk	sb.itk.sg.ubest
 bold	sb.fk.sg.ubest
@@ -558,7 +543,6 @@ vilje	sb.fk.sg.ubest
 tegn	sb.itk.sg.ubest
 nederlag	sb.itk.sg.ubest
 metode	sb.fk.sg.ubest
-sekund	sb.fk.sg.ubest
 hul	sb.itk.sg.ubest
 kanal	sb.fk.sg.ubest
 dronning	sb.fk.sg.ubest
@@ -576,7 +560,6 @@ fortælling	sb.fk.sg.ubest
 kort	sb.itk.sg.ubest
 hal	sb.fk.sg.ubest
 ryg	sb.fk.sg.ubest
-ring	sb.itk.sg.ubest
 runde	sb.fk.sg.ubest
 tank	sb.fk.sg.ubest
 budskab	sb.itk.sg.ubest
@@ -587,7 +570,6 @@ smag	sb.fk.sg.ubest
 tilskuer	sb.fk.sg.ubest
 dialog	sb.fk.sg.ubest
 domstol	sb.fk.sg.ubest
-felt	sb.itk.sg.ubest
 repræsentant	sb.fk.sg.ubest
 tillid	sb.fk.sg.ubest
 våben	sb.itk.sg.ubest
@@ -601,7 +583,6 @@ festival	sb.fk.sg.ubest
 hær	sb.fk.sg.ubest
 kvadratmeter	sb.fk.sg.ubest
 argument	sb.itk.sg.ubest
-talent	sb.itk.sg.ubest
 besked	sb.fk.sg.ubest
 maleri	sb.itk.sg.ubest
 sektor	sb.fk.sg.ubest
@@ -615,7 +596,6 @@ børs	sb.fk.sg.ubest
 dame	sb.fk.sg.ubest
 omstændighed	sb.fk.sg.ubest
 væg	sb.fk.sg.ubest
-service	sb.itk.sg.ubest
 konge	sb.fk.sg.ubest
 nation	sb.fk.sg.ubest
 motor	sb.fk.sg.ubest
@@ -623,7 +603,6 @@ finger	sb.fk.sg.ubest
 musiker	sb.fk.sg.ubest
 ressource	sb.fk.sg.ubest
 art	sb.fk.sg.ubest
-øl	sb.fk.sg.ubest
 smule	sb.fk.sg.ubest
 arkitekt	sb.fk.sg.ubest
 blik	sb.itk.sg.ubest
@@ -682,13 +661,11 @@ offentlighed	sb.fk.sg.ubest
 premiere	sb.fk.sg.ubest
 halvleg	sb.fk.sg.ubest
 operation	sb.fk.sg.ubest
-design	sb.fk.sg.ubest
 omkostning	sb.fk.sg.ubest
 verdenskrig	sb.fk.sg.ubest
 rettighed	sb.fk.sg.ubest
 tegning	sb.fk.sg.ubest
 vært	sb.fk.sg.ubest
-led	sb.itk.sg.ubest
 tilværelse	sb.fk.sg.ubest
 fart	sb.fk.sg.ubest
 opera	sb.fk.sg.ubest
@@ -713,7 +690,6 @@ guld	sb.itk.sg.ubest
 fabrik	sb.fk.sg.ubest
 ambition	sb.fk.sg.ubest
 mester	sb.fk.sg.ubest
-brud	sb.fk.sg.ubest
 døgn	sb.itk.sg.ubest
 signal	sb.itk.sg.ubest
 strøm	sb.fk.sg.ubest
@@ -737,7 +713,6 @@ rute	sb.fk.sg.ubest
 gennemsnit	sb.itk.sg.ubest
 frue	sb.fk.sg.ubest
 forstand	sb.fk.sg.ubest
-mærke	sb.itk.sg.ubest
 konklusion	sb.fk.sg.ubest
 passager	sb.fk.sg.ubest
 børnehave	sb.fk.sg.ubest
@@ -750,7 +725,6 @@ skærm	sb.fk.sg.ubest
 melding	sb.fk.sg.ubest
 indtægt	sb.fk.sg.ubest
 slot	sb.itk.sg.ubest
-rod	sb.fk.sg.ubest
 figur	sb.fk.sg.ubest
 strid	sb.fk.sg.ubest
 sten	sb.fk.sg.ubest
@@ -790,9 +764,7 @@ himmel	sb.fk.sg.ubest
 protest	sb.fk.sg.ubest
 smil	sb.itk.sg.ubest
 anmeldelse	sb.fk.sg.ubest
-profil	sb.itk.sg.ubest
 udstyr	sb.itk.sg.ubest
-fyr	sb.fk.sg.ubest
 leg	sb.fk.sg.ubest
 henvendelse	sb.fk.sg.ubest
 kreds	sb.fk.sg.ubest
@@ -886,7 +858,6 @@ identitet	sb.fk.sg.ubest
 inspiration	sb.fk.sg.ubest
 fænomen	sb.itk.sg.ubest
 ordre	sb.fk.sg.ubest
-ton	sb.fk.sg.ubest
 loft	sb.itk.sg.ubest
 kendskab	sb.itk.sg.ubest
 salt	sb.itk.sg.ubest
@@ -962,8 +933,6 @@ islam	sb.fk.sg.ubest
 skulder	sb.fk.sg.ubest
 overskrift	sb.fk.sg.ubest
 begrundelse	sb.fk.sg.ubest
-æg	sb.itk.sg.ubest
-pH	sb.fk.sg.ubest
 bombe	sb.fk.sg.ubest
 kammerat	sb.fk.sg.ubest
 meningsmåling	sb.fk.sg.ubest
@@ -975,7 +944,6 @@ spænding	sb.fk.sg.ubest
 trup	sb.fk.sg.ubest
 enighed	sb.fk.sg.ubest
 forbedring	sb.fk.sg.ubest
-gavn	sb.fk.sg.ubest
 sko	sb.fk.sg.ubest
 bølge	sb.fk.sg.ubest
 svenske	sb.fk.sg.ubest
@@ -1061,7 +1029,6 @@ tilgang	sb.fk.sg.ubest
 regime	sb.itk.sg.ubest
 indsigt	sb.fk.sg.ubest
 fødevare	sb.fk.sg.ubest
-koncept	sb.fk.sg.ubest
 advarsel	sb.fk.sg.ubest
 kapitel	sb.itk.sg.ubest
 grav	sb.fk.sg.ubest
@@ -1077,7 +1044,6 @@ hemmelighed	sb.fk.sg.ubest
 lastbil	sb.fk.sg.ubest
 målmand	sb.fk.sg.ubest
 alkohol	sb.fk.sg.ubest
-velfærd	sb.fk.sg.ubest
 kor	sb.itk.sg.ubest
 rådgiver	sb.fk.sg.ubest
 forlig	sb.itk.sg.ubest
@@ -1087,7 +1053,6 @@ kineser	sb.fk.sg.ubest
 værksted	sb.itk.sg.ubest
 fritid	sb.fk.sg.ubest
 udgivelse	sb.fk.sg.ubest
-stik	sb.itk.sg.ubest
 fusion	sb.fk.sg.ubest
 udbud	sb.itk.sg.ubest
 integration	sb.fk.sg.ubest
@@ -1152,7 +1117,6 @@ forhandler	sb.fk.sg.ubest
 mode	sb.fk.sg.ubest
 skandale	sb.fk.sg.ubest
 underholdning	sb.fk.sg.ubest
-tråd	sb.fk.sg.ubest
 agent	sb.fk.sg.ubest
 flugt	sb.fk.sg.ubest
 rådgivning	sb.fk.sg.ubest
@@ -1166,7 +1130,6 @@ måling	sb.fk.sg.ubest
 anvendelse	sb.fk.sg.ubest
 oplæg	sb.itk.sg.ubest
 længde	sb.fk.sg.ubest
-gas	sb.fk.sg.ubest
 affære	sb.fk.sg.ubest
 gen	sb.itk.sg.ubest
 erindring	sb.fk.sg.ubest
@@ -1190,7 +1153,6 @@ pårørende	sb.fk.sg.ubest
 pressemøde	sb.itk.sg.ubest
 affald	sb.itk.sg.ubest
 mælk	sb.fk.sg.ubest
-nøgle	sb.fk.sg.ubest
 udbytte	sb.itk.sg.ubest
 flod	sb.fk.sg.ubest
 brite	sb.fk.sg.ubest
@@ -1247,7 +1209,6 @@ grin	sb.itk.sg.ubest
 melodi	sb.fk.sg.ubest
 biskop	sb.fk.sg.ubest
 rude	sb.fk.sg.ubest
-misbrug	sb.fk.sg.ubest
 finansiering	sb.fk.sg.ubest
 engelsk	sb.itk.sg.ubest
 medalje	sb.fk.sg.ubest
@@ -1283,7 +1244,6 @@ vinde	sb.fk.sg.ubest
 bonde	sb.fk.sg.ubest
 kapacitet	sb.fk.sg.ubest
 erklæring	sb.fk.sg.ubest
-stress	sb.fk.sg.ubest
 overgang	sb.fk.sg.ubest
 kop	sb.fk.sg.ubest
 bind	sb.itk.sg.ubest
@@ -1361,14 +1321,12 @@ kompromis	sb.itk.sg.ubest
 forsvarsminister	sb.fk.sg.ubest
 sofa	sb.fk.sg.ubest
 hat	sb.fk.sg.ubest
-fotografi	sb.itk.sg.ubest
 demokrat	sb.fk.sg.ubest
 dokumentation	sb.fk.sg.ubest
 bænk	sb.fk.sg.ubest
 halvår	sb.itk.sg.ubest
 nød	sb.fk.sg.ubest
 væsen	sb.itk.sg.ubest
-pas	sb.fk.sg.ubest
 ære	sb.fk.sg.ubest
 erkendelse	sb.fk.sg.ubest
 borgerkrig	sb.fk.sg.ubest
@@ -1377,7 +1335,6 @@ etablering	sb.fk.sg.ubest
 arv	sb.fk.sg.ubest
 team	sb.itk.sg.ubest
 sår	sb.itk.sg.ubest
-peber	sb.itk.sg.ubest
 værktøj	sb.itk.sg.ubest
 bakke	sb.fk.sg.ubest
 forberedelse	sb.fk.sg.ubest
@@ -1392,7 +1349,6 @@ bande	sb.fk.sg.ubest
 fremskridt	sb.itk.sg.ubest
 latter	sb.fk.sg.ubest
 kaos	sb.itk.sg.ubest
-leje	sb.itk.sg.ubest
 øg	sb.itk.sg.ubest
 benzin	sb.fk.sg.ubest
 planlægning	sb.fk.sg.ubest
@@ -1407,7 +1363,6 @@ disciplin	sb.fk.sg.ubest
 vrede	sb.fk.sg.ubest
 ægtefælle	sb.fk.sg.ubest
 arbejder	sb.fk.sg.ubest
-ros	sb.itk.sg.ubest
 forlængelse	sb.fk.sg.ubest
 byret	sb.fk.sg.ubest
 dirigent	sb.fk.sg.ubest
@@ -1421,7 +1376,6 @@ forfatning	sb.fk.sg.ubest
 hastighed	sb.fk.sg.ubest
 gudstjeneste	sb.fk.sg.ubest
 fortolkning	sb.fk.sg.ubest
-sigte	sb.itk.sg.ubest
 bekæmpelse	sb.fk.sg.ubest
 bakterie	sb.fk.sg.ubest
 moral	sb.fk.sg.ubest
@@ -1456,7 +1410,6 @@ udmelding	sb.fk.sg.ubest
 bestemmelse	sb.fk.sg.ubest
 skatteminister	sb.fk.sg.ubest
 kost	sb.fk.sg.ubest
-ur	sb.itk.sg.ubest
 hylde	sb.fk.sg.ubest
 landevej	sb.fk.sg.ubest
 københavner	sb.fk.sg.ubest
@@ -1556,7 +1509,6 @@ sammenstød	sb.itk.sg.ubest
 skoleleder	sb.fk.sg.ubest
 cyklist	sb.fk.sg.ubest
 skuespil	sb.itk.sg.ubest
-stift	sb.fk.sg.ubest
 konvention	sb.fk.sg.ubest
 statsborger	sb.fk.sg.ubest
 besiddelse	sb.fk.sg.ubest
@@ -1590,7 +1542,6 @@ port	sb.fk.sg.ubest
 strækning	sb.fk.sg.ubest
 pund	sb.itk.sg.ubest
 slagsmål	sb.itk.sg.ubest
-plet	sb.itk.sg.ubest
 hovedkvarter	sb.itk.sg.ubest
 løber	sb.fk.sg.ubest
 sukker	sb.itk.sg.ubest
@@ -1600,7 +1551,6 @@ gerningsmand	sb.fk.sg.ubest
 rør	sb.itk.sg.ubest
 opkøb	sb.itk.sg.ubest
 klinik	sb.fk.sg.ubest
-lager	sb.fk.sg.ubest
 lyde	sb.fk.sg.ubest
 miljøminister	sb.fk.sg.ubest
 nazist	sb.fk.sg.ubest
@@ -1633,7 +1583,6 @@ højdepunkt	sb.itk.sg.ubest
 datterselskab	sb.itk.sg.ubest
 musical	sb.fk.sg.ubest
 spiseskefuld	sb.fk.sg.ubest
-regi	sb.fk.sg.ubest
 image	sb.itk.sg.ubest
 fordom	sb.fk.sg.ubest
 gris	sb.fk.sg.ubest
@@ -1661,10 +1610,8 @@ modtager	sb.fk.sg.ubest
 røver	sb.fk.sg.ubest
 diplomat	sb.fk.sg.ubest
 lokalplan	sb.fk.sg.ubest
-race	sb.itk.sg.ubest
 bøn	sb.fk.sg.ubest
 nødvendighed	sb.fk.sg.ubest
-voks	sb.fk.sg.ubest
 stamme	sb.fk.sg.ubest
 trio	sb.fk.sg.ubest
 filosof	sb.fk.sg.ubest
@@ -1680,7 +1627,6 @@ check	sb.fk.sg.ubest
 arbejdsmiljø	sb.itk.sg.ubest
 tilmelding	sb.fk.sg.ubest
 rådmand	sb.fk.sg.ubest
-bid	sb.itk.sg.ubest
 reduktion	sb.fk.sg.ubest
 chok	sb.itk.sg.ubest
 ovn	sb.fk.sg.ubest
@@ -1719,7 +1665,6 @@ skål	sb.fk.sg.ubest
 gennemgang	sb.fk.sg.ubest
 opløsning	sb.fk.sg.ubest
 udslip	sb.itk.sg.ubest
-lav	sb.itk.sg.ubest
 svaghed	sb.fk.sg.ubest
 løg	sb.itk.sg.ubest
 landsholdsspiller	sb.fk.sg.ubest
@@ -1735,7 +1680,6 @@ iværksætter	sb.fk.sg.ubest
 tennis	sb.fk.sg.ubest
 dannelse	sb.fk.sg.ubest
 helikopter	sb.fk.sg.ubest
-skrift	sb.itk.sg.ubest
 husleje	sb.fk.sg.ubest
 holdkammerat	sb.fk.sg.ubest
 klaver	sb.itk.sg.ubest
@@ -1798,7 +1742,6 @@ nævn	sb.itk.sg.ubest
 journalistik	sb.fk.sg.ubest
 pengeinstitut	sb.itk.sg.ubest
 støj	sb.fk.sg.ubest
-sats	sb.fk.sg.ubest
 sæd	sb.fk.sg.ubest
 forstad	sb.fk.sg.ubest
 fad	sb.itk.sg.ubest
@@ -1845,7 +1788,6 @@ køleskab	sb.itk.sg.ubest
 fakultet	sb.itk.sg.ubest
 fjerdedel	sb.fk.sg.ubest
 tænketank	sb.fk.sg.ubest
-katalog	sb.fk.sg.ubest
 pleje	sb.fk.sg.ubest
 præsentation	sb.fk.sg.ubest
 kvartfinale	sb.fk.sg.ubest
@@ -1906,7 +1848,6 @@ iagttager	sb.fk.sg.ubest
 suppe	sb.fk.sg.ubest
 slagteri	sb.itk.sg.ubest
 kejser	sb.fk.sg.ubest
-aktiv	sb.itk.sg.ubest
 partifælle	sb.fk.sg.ubest
 legetøj	sb.itk.sg.ubest
 handelshøjskole	sb.fk.sg.ubest
@@ -1986,7 +1927,6 @@ licens	sb.fk.sg.ubest
 løve	sb.fk.sg.ubest
 nedgang	sb.fk.sg.ubest
 udenrigspolitik	sb.fk.sg.ubest
-match	sb.itk.sg.ubest
 billedkunstner	sb.fk.sg.ubest
 kreativitet	sb.fk.sg.ubest
 hegn	sb.itk.sg.ubest
@@ -2095,7 +2035,6 @@ belastning	sb.fk.sg.ubest
 turné	sb.fk.sg.ubest
 lokalområde	sb.itk.sg.ubest
 cykling	sb.fk.sg.ubest
-ris	sb.itk.sg.ubest
 boks	sb.fk.sg.ubest
 møgso	sb.fk.sg.ubest
 koncertsal	sb.fk.sg.ubest
@@ -2168,7 +2107,6 @@ testamente	sb.itk.sg.ubest
 koalition	sb.fk.sg.ubest
 kansler	sb.fk.sg.ubest
 omlægning	sb.fk.sg.ubest
-greb	sb.fk.sg.ubest
 skam	sb.fk.sg.ubest
 udnyttelse	sb.fk.sg.ubest
 værtshus	sb.itk.sg.ubest
@@ -2201,7 +2139,6 @@ japaner	sb.fk.sg.ubest
 slægt	sb.fk.sg.ubest
 boldklub	sb.fk.sg.ubest
 kemi	sb.fk.sg.ubest
-pot	sb.fk.sg.ubest
 almindelighed	sb.fk.sg.ubest
 hektar	sb.fk.sg.ubest
 oberst	sb.fk.sg.ubest
@@ -2220,7 +2157,6 @@ handler	sb.fk.sg.ubest
 fleksibilitet	sb.fk.sg.ubest
 fætter	sb.fk.sg.ubest
 gentagelse	sb.fk.sg.ubest
-virus	sb.fk.sg.ubest
 jura	sb.fk.sg.ubest
 ishockey	sb.fk.sg.ubest
 kendelse	sb.fk.sg.ubest
@@ -2232,7 +2168,6 @@ omdrejningspunkt	sb.itk.sg.ubest
 afvikling	sb.fk.sg.ubest
 kind	sb.fk.sg.ubest
 opsving	sb.itk.sg.ubest
-frø	sb.itk.sg.ubest
 psykologi	sb.fk.sg.ubest
 orientering	sb.fk.sg.ubest
 dukke	sb.fk.sg.ubest
@@ -2242,7 +2177,6 @@ mormor	sb.fk.sg.ubest
 skub	sb.itk.sg.ubest
 ensomhed	sb.fk.sg.ubest
 levetid	sb.fk.sg.ubest
-landsplan	sb.itk.sg.ubest
 civilisation	sb.fk.sg.ubest
 sammensætning	sb.fk.sg.ubest
 bedsteforælder	sb.fk.sg.ubest
@@ -2290,12 +2224,10 @@ seksualitet	sb.fk.sg.ubest
 datid	sb.fk.sg.ubest
 diesel	sb.fk.sg.ubest
 temperament	sb.itk.sg.ubest
-ark	sb.itk.sg.ubest
 afvisning	sb.fk.sg.ubest
 kup	sb.itk.sg.ubest
 ørken	sb.fk.sg.ubest
 delegation	sb.fk.sg.ubest
-gode	sb.itk.sg.ubest
 socialrådgiver	sb.fk.sg.ubest
 hævn	sb.fk.sg.ubest
 midnat	sb.fk.sg.ubest
@@ -2343,7 +2275,6 @@ bede	sb.fk.sg.ubest
 atomvåben	sb.itk.sg.ubest
 krog	sb.fk.sg.ubest
 tænkning	sb.fk.sg.ubest
-kommando	sb.fk.sg.ubest
 rigspoliti	sb.itk.sg.ubest
 spillested	sb.itk.sg.ubest
 førtidspension	sb.fk.sg.ubest
@@ -2360,12 +2291,10 @@ incitament	sb.itk.sg.ubest
 bremse	sb.fk.sg.ubest
 palads	sb.itk.sg.ubest
 juleaften	sb.fk.sg.ubest
-skær	sb.itk.sg.ubest
 barriere	sb.fk.sg.ubest
 julegave	sb.fk.sg.ubest
 udflugt	sb.fk.sg.ubest
 røv	sb.fk.sg.ubest
-software	sb.fk.sg.ubest
 drue	sb.fk.sg.ubest
 illustration	sb.fk.sg.ubest
 dynamik	sb.fk.sg.ubest
@@ -2398,7 +2327,6 @@ dessert	sb.fk.sg.ubest
 fradrag	sb.itk.sg.ubest
 reportage	sb.fk.sg.ubest
 redning	sb.fk.sg.ubest
-kapitalfond	sb.fk.sg.ubest
 resolution	sb.fk.sg.ubest
 domkirke	sb.fk.sg.ubest
 tomme	sb.fk.sg.ubest
@@ -2417,8 +2345,6 @@ dokumentarfilm	sb.fk.sg.ubest
 skattestop	sb.itk.sg.ubest
 talerstol	sb.fk.sg.ubest
 mejeri	sb.itk.sg.ubest
-søm	sb.itk.sg.ubest
-sodavand	sb.fk.sg.ubest
 kiosk	sb.fk.sg.ubest
 tekniker	sb.fk.sg.ubest
 færdighed	sb.fk.sg.ubest
@@ -2439,20 +2365,17 @@ elbil	sb.fk.sg.ubest
 senator	sb.fk.sg.ubest
 cykelsti	sb.fk.sg.ubest
 vicepræsident	sb.fk.sg.ubest
-logo	sb.fk.sg.ubest
 kapitalisme	sb.fk.sg.ubest
 mel	sb.itk.sg.ubest
 punktum	sb.itk.sg.ubest
 producer	sb.fk.sg.ubest
 slogan	sb.itk.sg.ubest
 panel	sb.itk.sg.ubest
-sjov	sb.fk.sg.ubest
 beliggenhed	sb.fk.sg.ubest
 sejl	sb.itk.sg.ubest
 cykelrytter	sb.fk.sg.ubest
 fremgangsmåde	sb.fk.sg.ubest
 menneskeliv	sb.itk.sg.ubest
-tip	sb.fk.sg.ubest
 sagsbehandler	sb.fk.sg.ubest
 gymnastik	sb.fk.sg.ubest
 præsidentkandidat	sb.fk.sg.ubest
@@ -2472,7 +2395,6 @@ guvernør	sb.fk.sg.ubest
 væld	sb.itk.sg.ubest
 lønstigning	sb.fk.sg.ubest
 årstid	sb.fk.sg.ubest
-slik	sb.fk.sg.ubest
 tvilling	sb.fk.sg.ubest
 skurk	sb.fk.sg.ubest
 kreditor	sb.fk.sg.ubest
@@ -2516,10 +2438,8 @@ ejerskab	sb.itk.sg.ubest
 koloni	sb.fk.sg.ubest
 forhindring	sb.fk.sg.ubest
 dramatiker	sb.fk.sg.ubest
-legat	sb.fk.sg.ubest
 vaccine	sb.fk.sg.ubest
 erhvervsminister	sb.fk.sg.ubest
-event	sb.fk.sg.ubest
 guldmedalje	sb.fk.sg.ubest
 straffespark	sb.itk.sg.ubest
 ski	sb.fk.sg.ubest
@@ -2542,7 +2462,6 @@ kurv	sb.fk.sg.ubest
 parforhold	sb.itk.sg.ubest
 indrømmelse	sb.fk.sg.ubest
 tiltale	sb.fk.sg.ubest
-ikon	sb.fk.sg.ubest
 garage	sb.fk.sg.ubest
 akt	sb.fk.sg.ubest
 reporter	sb.fk.sg.ubest
@@ -2610,7 +2529,6 @@ olivenolie	sb.fk.sg.ubest
 stod	sb.itk.sg.ubest
 realkredit	sb.fk.sg.ubest
 bedømmelse	sb.fk.sg.ubest
-lort	sb.fk.sg.ubest
 henseende	sb.fk.sg.ubest
 modernisering	sb.fk.sg.ubest
 attitude	sb.fk.sg.ubest
@@ -2684,7 +2602,6 @@ hyld	sb.fk.sg.ubest
 spiritus	sb.fk.sg.ubest
 pære	sb.fk.sg.ubest
 bræt	sb.itk.sg.ubest
-kokain	sb.fk.sg.ubest
 skak	sb.fk.sg.ubest
 stab	sb.fk.sg.ubest
 klarhed	sb.fk.sg.ubest
@@ -2708,14 +2625,12 @@ fuldmægtig	sb.fk.sg.ubest
 lidenskab	sb.fk.sg.ubest
 bær	sb.itk.sg.ubest
 kabel	sb.itk.sg.ubest
-skæg	sb.fk.sg.ubest
 biolog	sb.fk.sg.ubest
 insekt	sb.itk.sg.ubest
 reol	sb.fk.sg.ubest
 naturvidenskab	sb.fk.sg.ubest
 brugerbetaling	sb.fk.sg.ubest
 hjemmehjælp	sb.fk.sg.ubest
-røst	sb.fk.sg.ubest
 lederskab	sb.itk.sg.ubest
 fredsaftale	sb.fk.sg.ubest
 jern	sb.itk.sg.ubest
@@ -2766,7 +2681,6 @@ kiste	sb.fk.sg.ubest
 vrøvl	sb.itk.sg.ubest
 bager	sb.fk.sg.ubest
 takst	sb.fk.sg.ubest
-gran	sb.fk.sg.ubest
 jury	sb.fk.sg.ubest
 kapel	sb.itk.sg.ubest
 bestilling	sb.fk.sg.ubest
@@ -2862,7 +2776,6 @@ guardian	sb.fk.sg.ubest
 kurator	sb.fk.sg.ubest
 prestige	sb.fk.sg.ubest
 kabine	sb.fk.sg.ubest
-spand	sb.itk.sg.ubest
 flis	sb.fk.sg.ubest
 maske	sb.fk.sg.ubest
 cocktail	sb.fk.sg.ubest
@@ -2998,3 +2911,90 @@ taxi	sb.fk.sg.ubest
 fødevareminister	sb.fk.sg.ubest
 indbrudstyv	sb.fk.sg.ubest
 alkoholiker	sb.fk.sg.ubest
+skitse	sb.fk.sg.ubest
+kende	sb.fk.sg.ubest
+slange	sb.fk.sg.ubest
+stråle	sb.fk.sg.ubest
+fristelse	sb.fk.sg.ubest
+drikkevand	sb.itk.sg.ubest
+foster	sb.itk.sg.ubest
+fransk	sb.itk.sg.ubest
+supplement	sb.itk.sg.ubest
+klo	sb.fk.sg.ubest
+vandværk	sb.itk.sg.ubest
+indsigelse	sb.fk.sg.ubest
+ghetto	sb.fk.sg.ubest
+ceremoni	sb.fk.sg.ubest
+boksning	sb.fk.sg.ubest
+gymnasieelev	sb.fk.sg.ubest
+filmatisering	sb.fk.sg.ubest
+asylcenter	sb.itk.sg.ubest
+belønning	sb.fk.sg.ubest
+modspil	sb.itk.sg.ubest
+varighed	sb.fk.sg.ubest
+henrettelse	sb.fk.sg.ubest
+størrelsesorden	sb.fk.sg.ubest
+madlavning	sb.fk.sg.ubest
+hæk	sb.fk.sg.ubest
+handelsskole	sb.fk.sg.ubest
+disposition	sb.fk.sg.ubest
+modpart	sb.fk.sg.ubest
+optik	sb.fk.sg.ubest
+debutant	sb.fk.sg.ubest
+provokation	sb.fk.sg.ubest
+parade	sb.fk.sg.ubest
+synsvinkel	sb.fk.sg.ubest
+vittighed	sb.fk.sg.ubest
+opvisning	sb.fk.sg.ubest
+udlicitering	sb.fk.sg.ubest
+forfald	sb.itk.sg.ubest
+finne	sb.fk.sg.ubest
+kys	sb.itk.sg.ubest
+mursten	sb.fk.sg.ubest
+persille	sb.fk.sg.ubest
+barsel	sb.fk.sg.ubest
+fysioterapeut	sb.fk.sg.ubest
+drivhusgas	sb.fk.sg.ubest
+kaj	sb.fk.sg.ubest
+medspiller	sb.fk.sg.ubest
+lår	sb.itk.sg.ubest
+loppemarked	sb.itk.sg.ubest
+stang	sb.fk.sg.ubest
+uddeling	sb.fk.sg.ubest
+restauratør	sb.fk.sg.ubest
+garde	sb.fk.sg.ubest
+sikring	sb.fk.sg.ubest
+skatteborger	sb.fk.sg.ubest
+eksil	sb.itk.sg.ubest
+indvending	sb.fk.sg.ubest
+irritation	sb.fk.sg.ubest
+studievært	sb.fk.sg.ubest
+hjemsted	sb.itk.sg.ubest
+kender	sb.fk.sg.ubest
+blodprøve	sb.fk.sg.ubest
+beføjelse	sb.fk.sg.ubest
+hof	sb.itk.sg.ubest
+ærme	sb.itk.sg.ubest
+hjemmehjælper	sb.fk.sg.ubest
+sæk	sb.fk.sg.ubest
+terminal	sb.fk.sg.ubest
+kollektiv	sb.itk.sg.ubest
+keramik	sb.fk.sg.ubest
+hjemmeværn	sb.itk.sg.ubest
+indtog	sb.itk.sg.ubest
+kriminalforsorg	sb.fk.sg.ubest
+udfoldelse	sb.fk.sg.ubest
+byg	sb.fk.sg.ubest
+aktiepost	sb.fk.sg.ubest
+fil	sb.fk.sg.ubest
+boligforening	sb.fk.sg.ubest
+fars	sb.fk.sg.ubest
+skrue	sb.fk.sg.ubest
+hammer	sb.fk.sg.ubest
+matrikel	sb.fk.sg.ubest
+udgravning	sb.fk.sg.ubest
+målestok	sb.fk.sg.ubest
+familiesammenføring	sb.fk.sg.ubest
+nedsættelse	sb.fk.sg.ubest
+skoledag	sb.fk.sg.ubest
+skår	sb.itk.sg.ubest
