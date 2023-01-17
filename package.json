@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "build:blog": "npm run build && sed -i '' 's/\\/assets\\//\\/games\\/enet\\/assets\\//g' dist/index.html && sed -i '' 's/\\/assets\\//\\/games\\/enet\\/assets\\//g' dist/assets/*",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sed-env-var": "LC_CTYPE=C LANG=C"
   },
   "dependencies": {
     "preact": "^10.11.3"
