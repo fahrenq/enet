@@ -158,14 +158,14 @@ export default function Game({
     const lines = text.split('\n');
     const allWords = lines.map(line => {
       const [word, koenRaw] = line.split('\t')
-      // sb.fk.sg.ubest -> en
-      // sb.itk.sg.ubest -> et
-      const koen = koenRaw === 'sb.fk.sg.ubest' ? 'en' : 'et'
+      // sb.fk.sg.ubest -> n-ord
+      // sb.itk.sg.ubest -> t-ord
+      const koen = koenRaw === 'sb.fk.sg.ubest' ? 'n' : 't'
       return {word, koen}
     })
 
-    const enWords = randomSelection(allWords, word => word.koen === 'en', 100);
-    const etWords = randomSelection(allWords, word => word.koen === 'et', 100);
+    const enWords = randomSelection(allWords, word => word.koen === 'n', 100);
+    const etWords = randomSelection(allWords, word => word.koen === 't', 100);
     const selectedWordsShuffled = shuffleArray([...enWords, ...etWords]);
     setSelectedWords(selectedWordsShuffled);
   };
@@ -228,10 +228,10 @@ export default function Game({
 
   const handleKeyDown = (event: KeyboardEvent) => {
     if (event.code === 'Digit1') {
-      answer('en')
+      answer('n')
     }
     if (event.code === 'Digit2') {
-      answer('et')
+      answer('t')
     }
   };
 
@@ -312,7 +312,7 @@ export default function Game({
       </div>
 
       <div class=" mt-4 flex justify-center bg-white/[.9] py-5 text-3xl" ref={wordBoxRef}>
-        {selectedWords[currentWordIndex]?.word}
+        {selectedWords[currentWordIndex]?.word ?? '...'}
       </div>
 
       <div class="mt-4 h-14 flex justify-center flex-col items-center">
@@ -320,7 +320,7 @@ export default function Game({
           pastWords.slice(0, 3).map(([word, correct], i) => (
             <div key={word.word}
                  class={`w-64 text-center ${pastWordsClassFromIdx(i)} ${correct ? 'bg-green-300' : 'bg-rose-300'} rounded`}>
-              {word.koen} {word.word}
+              (e{word.koen}) {word.word}
             </div>
           ))
         }
@@ -329,17 +329,17 @@ export default function Game({
       <div class="mt-8 flex justify-center gap-2">
         <div
           class="p-2 bg-white/[.9] rounded w-32 text-center border border-amber-300 border-4 cursor-pointer hover:border-amber-500 transition select-none text-xl relative"
-          onClick={() => answer('en')}>
+          onClick={() => answer('n')}>
           <kbd
             class="[@media(hover:none)]:hidden px-2 py-1.5 text-xs font-semibold text-gray-800 bg-gray-100 border border-gray-200 rounded-lg absolute left-2">1</kbd>
-          en
+          n-ord
         </div>
         <div
           class="p-2 bg-white/[.9] rounded w-32 text-center border border-amber-300 border-4 cursor-pointer hover:border-amber-500 transition select-none text-xl relative"
-          onClick={() => answer('et')}>
+          onClick={() => answer('t')}>
           <kbd
             class="[@media(hover:none)]:hidden px-2 py-1.5 text-xs font-semibold text-gray-800 bg-gray-100 border border-gray-200 rounded-lg absolute left-2">2</kbd>
-          et
+          t-ord
         </div>
       </div>
     </div>
