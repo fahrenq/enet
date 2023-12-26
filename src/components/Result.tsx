@@ -23,9 +23,9 @@ export default function Result(
       </div>
 
       <div class="mt-20 bg-white/[.7] text-xl text-center">
-        I {timeLimit} sekunder, fik du {stats.currentScore} ud af {stats.totalWords} rigtige.
+        På {timeLimit} sekunder, fik du {stats.currentScore} ud af {stats.totalWords} rigtige.
         <br/>
-        Din bedste streak var {stats.bestStreak}.
+        Bedste streak: {stats.bestStreak}.
       </div>
     </div>
   )
